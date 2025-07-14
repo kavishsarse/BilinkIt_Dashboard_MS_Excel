@@ -21,12 +21,8 @@ KPI's Requirements:-
 
 ![Dashboard](https://github.com/theshreyasinharoy/Assets/blob/main/Blinkit.PNG)
 
-### Data Source
-- [Download Here](https://drive.google.com/drive/folders/1Mlc_fvIrK793HedcpwbEpv13LdAs4yBg)
-
 ### Tools
  - Microsoft Excel - Data Cleaning, Data Analysis, Creating Reports
-    - [Download here](https://microsoft.com)
 
 ### Data Analysis
 - #### Data Collection:
